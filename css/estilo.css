@@ -40,6 +40,25 @@ body{
     right: 20px;
 }
 
+.redes-sociais a{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    text-indent: -99999px;
+}
+
+.facebook{
+    background-image: url("../img/facebook-logo.png");
+}
+
+.pinterest{
+    background-image: url("../img/pinterest-logo.png");
+}
+
+.instagram{
+    background-image: url("../img/instagram-logo.png");
+}
+
 .principal{
     width: 900px;
 	margin: auto;
@@ -295,3 +314,15 @@ input{
     margin: 10px;
 }
 
+.novidades{
+    background-color: #745e49;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 40px;
+}
+
+.center{
+    margin-left: 25%;
+    width: 400px;
+}
